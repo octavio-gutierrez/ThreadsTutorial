@@ -10,7 +10,7 @@ public class Main {
             hilo2.start();
             hilo1.join();
             hilo2.join();
-            System.out.println("Todos terminaron");
+            System.out.println("Todos terminaron correctamente");
 
             //Counter counter = new Counter(0);
             //SynchronizedThread hilo1 = new SynchronizedThread(counter);
